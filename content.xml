@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="DeadAirSupplementPatch" name="DeadAir Supplement Patch" description="Adds varied background and ore fields to HAT/ALI/MIN systems in Dead Air's Supplement" author="marksmango" version="100" date="2019-10-19" save="0" enabled="1">
+    <dependency id="DeadAirSupplement" optional="false" name="DeadAir Supplement" />
+	<text language="44" name="DeadAir Supplement Patch" description="Adds varied background and ore fields to HAT/ALI/MIN systems in Dead Air's Supplement" author="marksmango" />
+</content>
